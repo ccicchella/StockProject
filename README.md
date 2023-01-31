@@ -5,4 +5,5 @@ This is a stock price recording application in Java that utilizes web scraping t
 Implemented file reading/writing to record information and JavaFX to graph changes in price over time.  	
 
 Notes:
+
 -Txt Files include previous datasets
